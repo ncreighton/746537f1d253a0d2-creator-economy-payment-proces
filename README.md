@@ -1,2 +1,28 @@
-# 746537f1d253a0d2-creator-economy-payment-proces
-Every creator economy professionals needs this — most just don't know it yet.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Creator Economy Payment Processing Integration — fully configured and ready to use - Pre-b
+# Creator Economy Payment Processing Integration API
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E6oHeTt9Mw9JK1ZicZH29)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E6oHeTt9Mw9JK1ZicZH29)
+
